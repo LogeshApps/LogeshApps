@@ -10,6 +10,7 @@
   <img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
-</p>
+
 
 <span style="font-family: Arial; font-size: 18px;">Azure data engineer</span>
+</p>
